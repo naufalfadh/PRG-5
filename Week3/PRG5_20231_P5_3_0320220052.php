@@ -93,4 +93,6 @@
     $e->gantiHarga("160000000");
     echo "<br>";
     $e->tampilHarga();
+
+echo "COBA COBA";
 ?>
